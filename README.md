@@ -7,3 +7,6 @@ MS EXCEL was used for the CLEANING and MODELING of this project to be able to cr
 POWER BI this was used for the visualization of the data
 
 RESULTS AND ANALYSIS
+The amount of Data Professionals used in this survey was "630"
+The Analysis revealed that the favourite programming Lamguage used by data professionals is "PYTHON"
+The Excercise also reveals that Data Scientists are Paid the most among Data professionals 
